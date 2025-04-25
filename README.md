@@ -1,8 +1,6 @@
 # PureOS-CPC: Stealth Encrypted Communication Engine
 
----
 PureOS-CPC (Pure Obfuscated Secure Communication Protocol) is a lightweight, pure Python implementation designed to establish encrypted communication between a client and a server. It uses a stealthy AES-128 encryption algorithm combined with RSA for secure key exchange, all without relying on external cryptographic libraries. Built with cybersecurity research in mind by the HexSec team, PureOS-CPC ensures that data transmitted over the network remains confidential, tamper-proof, and extremely hard to detect by traditional antivirus and endpoint protection systems.
----
 
 ## How It Works
 
